@@ -1,0 +1,11 @@
+# SNOWBALL GRENADES CONFIG
+enable-snowballs: true
+enable-eggs: false
+explosions: true
+bounce-amount: 4
+damage-terrain: false
+explosion-power: 6.9
+bounce-reduction: .65
+dispensers: true
+snowmen: false
+players: true
